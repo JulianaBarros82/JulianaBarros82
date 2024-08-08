@@ -41,7 +41,7 @@ Para saber mais sobre minha jornada como Quality Assurance entre em contato [aqu
     <img aling="center" alt="maven" src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
     <img aling="center" alt="nodejs" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
     <img aling="center" alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
-   <img aling="center" alt="notion" src=https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge">
+   <img aling="center" alt="notion" src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=for-the-badge">
     <img aling="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
     <img aling="center" alt="vscodestudio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
    <img aling="center" alt="Qase" src="https://img.shields.io/badge/Qase-4F46DC?logo=qase&logoColor=fff&style=for-the-badge">
