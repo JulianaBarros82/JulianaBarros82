@@ -1,7 +1,7 @@
 
 ### 👨‍💻 Hello World! 
 
-Sou Juliana, 💻 Uma entusiasta em tecnologia com fome de conhecimento e muita imaginação. “A única maneira de fazer um bom trabalho é amar o que você faz.” 
+Sou Juliana, 💻 Apaixonada por tecnologia com fome de conhecimento e muita imaginação. “A única maneira de fazer um bom trabalho é amar o que você faz.” 
 📚 Aprendizado contínuo e sempre compartilhando esse conhecimento!
 Para saber mais sobre minha jornada como Quality Assurance entre em contato [aqui](linkedin.com/in/juliana-barros-156b58156).
 ☕ Vamos tomar um café!
